@@ -10,6 +10,5 @@ Web Development<br>Cisco Networking Academy<br>Coursera Data Analyst (To Be Fini
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RimeValkyris&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 
 <br/>
-<br/>
 Is this too much Voodoo work or Divine Intellect? This is the hardest question in Programming. 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
