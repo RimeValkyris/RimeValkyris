@@ -7,5 +7,7 @@ Technical Service Management (To Be Finished)<br>Web Development<br>Cisco Networ
 
 # ✏️ Random Ahh Quote:
 <i>Is this too much Voodoo work or Divine Intellect? This is the hardest question in Programming.</i>
-
+<div align="center">
+  <img height="200" src="https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif"  />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
