@@ -9,9 +9,6 @@ Technical Service Management (To Be Finished)<br>Web Development<br>Cisco Networ
 <i>Is this too much Voodoo work or Divine Intellect? This is the hardest question in Programming.</i>
 README.md
 
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
 
 <img align="left" height="200" src="https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif"  />
 
