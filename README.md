@@ -1,5 +1,5 @@
 # 💫 About Me:
-Technical Service Management (To Be Finished)<br>Web Development<br>Cisco Networking Academy<br>Coursera Data Analyst (To Be Finished)
+Technical Service Management (To Be Finished)<br>Currently Learning Web Development<br>Cisco Networking Academy<br>Coursera Data Analyst (To Be Finished)
 
 
 # 💻 Tech Stack:
