@@ -1,9 +1,5 @@
 # 💫 About Me:
-Technical Service Management (To Be Finished)<br>Currently Learning Web Development especially in the branch of Front-End Development<br>Cisco Networking Academy <ul>
-  <li>CCNA 1</li>
-  <li>CCNA 2</li>
-</ul>
-<br>Coursera Data Analyst (To Be Finished)
+Technical Service Management (To Be Finished)<br>Currently Learning Web Development especially in the branch of Front-End Development<br>Cisco Networking Academy (CCNA1, CCNA2) <br>Coursera Data Analyst (To Be Finished)
 
 
 # 💻 Tech Stack:
