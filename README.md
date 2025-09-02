@@ -41,7 +41,10 @@ Currently Majored In BSIT Technical Service Management<br>Currently Learning Web
 Programmer's Den Website (Collaboration Project Within University Organization)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RimeValkyris&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RimeValkyris&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 # ✏️ Random Ahh Quote:
 <i>Is this too much Voodoo work or Divine Intellect? This is the hardest question in Programming.</i>
