@@ -46,7 +46,7 @@ Programmer's Den Website (Collaboration Project Within University Organization)
 
 
 
-# ✏️ Random Ahh Quote:
+# 
 <i>Is this too much Voodoo work or Divine Intellect? This is the hardest question in Programming.</i>
 
 <div align="center">
