@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://i.imgur.com/x7UoEQk.gif" />
+  <img height="200" src="https://i.imgur.com/7KuQIO1.gif" />
+  <img height="200" src="https://i.imgur.com/y261tZF.gif" />
+  <img height="200" src="https://i.imgur.com/XuHABKR.gif" />
+</div>
 
 # 💫 About Me:
 Currently Majored In BSIT Technical Service Management<br>Currently Learning Web Development, especially in the branch of Front-End Development<br>Finished Cisco Networking Academy (CCNA1, CCNA2)<br>Currently Finishing Coursera Data Analyst Program
