@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://i.imgur.com/x7UoEQk.gif" />
-  <img height="200" src="https://i.imgur.com/7KuQIO1.gif" />
-  <img height="200" src="https://i.imgur.com/y261tZF.gif" />
-  <img height="200" src="https://i.imgur.com/XuHABKR.gif" />
-</div>
 
 # 💫 About Me:
 Currently Majored In BSIT Technical Service Management<br>Currently Learning Web Development, especially in the branch of Front-End Development<br>Finished Cisco Networking Academy (CCNA1, CCNA2)<br>Currently Finishing Coursera Data Analyst Program
@@ -55,19 +49,12 @@ Programmer's Den Website (Collaboration Project Within University Organization)
 # ✏️ Random Ahh Quote:
 <i>Is this too much Voodoo work or Divine Intellect? This is the hardest question in Programming.</i>
 
-<img align="left" height="200" src="https://media.tenor.com/WIqvnT_7Vj8AAAAj/terry-a-davis-terry-davis.gif"  />
-
-###
-
-<img align="right" height="200" src="https://media.tenor.com/gsPcccoKhhEAAAAi/dandelion-tambourine.gif"  />
-
-###
-
 <div align="center">
-  <img height="200" src="https://c.tenor.com/YW_91XEV7PIAAAAd/tenor.gif"  />
+  <img height="200" src="https://i.imgur.com/x7UoEQk.gif" />
+  <img height="200" src="https://i.imgur.com/7KuQIO1.gif" />
+  <img height="200" src="https://i.imgur.com/y261tZF.gif" />
+  <img height="200" src="https://i.imgur.com/XuHABKR.gif" />
 </div>
-
-###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
