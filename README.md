@@ -42,7 +42,7 @@ Currently Majored In BSIT Technical Service Management<br>Currently Learning Web
 Programmer's Den Website (Collaboration Project Within University Organization)
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RimeValkyris&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RimeValkyris&layout=compact&theme=dark)
 
 
 
