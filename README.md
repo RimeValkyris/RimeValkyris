@@ -40,6 +40,7 @@ Currently Majored In BSIT Technical Service Management<br>Currently Learning Web
 
 # 📝 Projects:
 Programmer's Den Website (Collaboration Project Within University Organization)
+AN94 Website (Personal Project)
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RimeValkyris&layout=compact&theme=dark)
