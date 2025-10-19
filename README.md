@@ -39,7 +39,7 @@ Currently Majored In BSIT Technical Service Management<br>Currently Learning Web
 
 
 # 📝 Projects:
-Programmer's Den Website (Collaboration Project Within University Organization)
+Programmer's Den Website (Collaboration Project Within University Organization) <br>
 AN94 Website (Personal Project)
 
 # 📊 GitHub Stats:
