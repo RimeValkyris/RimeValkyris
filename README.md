@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Currently Majored In BSIT Technical Service Management<br>Currently Learning Web Development, especially in the branch of Front-End Development<br>Finished Cisco Networking Academy (CCNA1, CCNA2)<br>Currently Finishing Coursera Data Analyst Program
+Currently Majored In BSIT Technical Service Management<br>Currently Learning Web Development, especially in the branch of Front-End Development<br>Finished Cisco Networking Academy (CCNA1, CCNA2)<br>Currently Finished Coursera Data Analyst Program
 
 # 💻 Tech Stack:
 ### 💻 Programming Languages
