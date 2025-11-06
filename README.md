@@ -1,6 +1,17 @@
 
-# 💫 About Me:
-Currently Majored In BSIT Technical Service Management<br>Currently Learning Web Development, especially in the branch of Front-End Development<br>Finished Cisco Networking Academy (CCNA1, CCNA2)<br>Finished Coursera Data Analyst Program
+<h1 align="center">💫 Hello There! I'm Valk</h1>
+
+###
+
+<div align="center">
+  <img height="300" src="https://cdn.donmai.us/original/c5/86/__persicaria_girls_frontline_and_1_more_drawn_by_salty_eyes__c586be9451a1412d053da50806b8ddd3.png"  />
+</div>
+
+###
+
+<p align="left">Currently studying Bachelor of Science in Information Technology Major in Technical Service Management.</p>
+
+###
 
 # 💻 Tech Stack:
 ### 💻 Programming Languages
@@ -18,9 +29,9 @@ Currently Majored In BSIT Technical Service Management<br>Currently Learning Web
 
 ### 📚 Frameworks & Libraries
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 
@@ -40,7 +51,8 @@ Currently Majored In BSIT Technical Service Management<br>Currently Learning Web
 
 # 📝 Projects:
 Programmer's Den Website (Collaboration Project Within University Organization) <br>
-AN94 Website (Personal Project)
+AN94 Website (Personal Project) <br>
+Luminous E-Sports Website (Case Study Web Development)
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RimeValkyris&layout=compact&theme=dark)
