@@ -8,7 +8,9 @@
 
 <div align="center">
   <img height="300" src="https://cdn.donmai.us/original/4d/b7/__hissabeth_reverse_1999__4db772b8304ffaacc3fde714ec27a38d.jpg"  />
+  
 </div>
+
 
 <br>
 <br>
@@ -81,9 +83,9 @@ Personal Portfolio (Personal Project) <i>currently in the making</i>
 
 
 
-
 # 
 <i>Is this too much Voodoo work or Divine Intellect? This is the hardest question in Programming.</i>
+
 
 <div align="center">
   <img height="200" src="https://i.imgur.com/x7UoEQk.gif" />
