@@ -1,3 +1,6 @@
+<div>
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
 <h1 align="center">💫 Hello There! I'm Valk💫</h1>
 
@@ -88,7 +91,7 @@ Personal Portfolio (Personal Project) <i>currently in the making</i>
   <img height="200" src="https://i.imgur.com/y261tZF.gif" />
   <img height="200" src="https://i.imgur.com/XuHABKR.gif" />
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <div>
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
