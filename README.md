@@ -1,19 +1,37 @@
 
-<h1 align="center">💫 Hello There! I'm Valk</h1>
+<h1 align="center">💫 Hello There! I'm Valk💫</h1>
 
-###
+
 
 <div align="center">
-  <img height="300" src="https://cdn.donmai.us/original/c5/86/__persicaria_girls_frontline_and_1_more_drawn_by_salty_eyes__c586be9451a1412d053da50806b8ddd3.png"  />
+  <img height="300" src="https://cdn.donmai.us/original/4d/b7/__hissabeth_reverse_1999__4db772b8304ffaacc3fde714ec27a38d.jpg"  />
 </div>
 
-###
+<br>
+<br>
+
+<table>
+  <tr>
+    <td>
 
 <p align="left">Currently studying Bachelor of Science in Information Technology Major in Technical Service Management.</p>
 
-###
+<ul align="left">
+  <li>Currently Learning <strong>Web Development</strong>, especially in the branch of <strong>Front-End Development</strong></li>
+  <li>Currently Learning <strong>Database Systems</strong></li>
+  <li>Finished <strong>Cisco Networking Academy</strong> (CCNA1, CCNA2)</li>
+  <li>Finished <strong>Coursera Data Analyst Program</strong></li>
+</ul>
 
-# 💻 Tech Stack:
+</td>
+<td>
+  <img src="https://cdn.donmai.us/original/8b/86/__persica_girls_frontline_drawn_by_junsuina_fujunbutsu__8b86322ee423f9a9687bfd9e54c3132e.jpg" height="200" />
+</td>
+  </tr>
+</table>
+
+
+# 💻 Tech Stack
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -49,12 +67,13 @@
 
 
 
-# 📝 Projects:
+# 📝 Projects
 Programmer's Den Website (Collaboration Project Within University Organization) <br>
-AN94 Website (Personal Project) <br>
-Luminous E-Sports Website (Case Study Web Development)
+AN94 Website (Personal Project) <i>Too busy to make due to college</i>  <br>
+Luminous E-Sports Website (Case Study Web Development) <br>
+Personal Portfolio (Personal Project) <i>currently in the making</i>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RimeValkyris&layout=compact&theme=dark)
 
 
@@ -70,8 +89,9 @@ Luminous E-Sports Website (Case Study Web Development)
   <img height="200" src="https://i.imgur.com/XuHABKR.gif" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+<div>
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
 
 
