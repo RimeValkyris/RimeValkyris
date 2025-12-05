@@ -31,7 +31,7 @@
 
 </td>
 <td>
-  <img src="https://cdn.donmai.us/original/8b/86/__persica_girls_frontline_drawn_by_junsuina_fujunbutsu__8b86322ee423f9a9687bfd9e54c3132e.jpg" height="200" />
+  <img src="https://cdn.donmai.us/sample/5a/db/__idw_and_persica_girls_frontline_drawn_by_kto_znaet__sample-5adb9075031da4e1d1afe81cb790b266.jpg" height="200" />
 </td>
   </tr>
 </table>
