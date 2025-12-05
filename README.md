@@ -23,7 +23,8 @@
 
 <ul align="left">
   <li>Currently Learning <strong>Web Development</strong>, especially in the branch of <strong>Front-End Development</strong></li>
-  <li>Currently Learning <strong>Database Systems</strong></li>
+  <li>Currently Learning <strong>Database Systems</strong>, and <strong>IT Support Systems</strong></li>
+  
   <li>Finished <strong>Cisco Networking Academy</strong> (CCNA1, CCNA2)</li>
   <li>Finished <strong>Coursera Data Analyst Program</strong></li>
 </ul>
