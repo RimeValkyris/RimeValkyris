@@ -2,7 +2,7 @@
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
 
-<h1 align="center">💫 Hello There! I'm Valk💫</h1>
+<h1 align="center"> Hello There! I'm Valk</h1>
 
 
 
@@ -37,7 +37,7 @@
 </table>
 
 
-# 💻 Tech Stack
+# Tech Stack
 ###  Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -74,13 +74,13 @@
 
 
 
-# 📝 Projects
+# Projects
 Programmer's Den Website (Collaboration Project Within University Organization) <br>
 AN94 Website (Personal Project) <i>Too busy to make due to college</i>  <br>
 Luminous E-Sports Website (Case Study Web Development) <br>
 Personal Portfolio (Personal Project) <i>currently in the making</i>
 
-# 📊 GitHub Stats
+# GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RimeValkyris&layout=compact&theme=dark)
 
 
