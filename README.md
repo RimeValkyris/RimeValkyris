@@ -77,20 +77,21 @@
 
 
 # Projects
-Programmer's Den Website (Collaboration Project Within University Organization) <br>
- - Website that our Team of Developers made for our Organization in our College. This just features our Organization's Members, Teams, Perks, and the Recruitment forms for interested students within the college.
- 
-AN94 Website (Personal Project) <i>Too busy to make due to college</i>  <br>
- - I dont know why I even made this, I just like AN-94 from Girls Frontline. This just showcase about her, her gallery, stats, and some random bullshit.
-   
-Luminous E-Sports Website (Case Study Web Development) <br>
- - 3rd Year Midterm and Final Project for our course Web Development. This website, Luminous E-Sports, is an interactive website that is created by 7 developers to promote and represent a fictional E-Sport Organization.
-   
-Personal Portfolio (Personal Project) <i>currently in the making</i>
-- Havent finish this yet because of College work. Maybe I'll just finish this during my 4th year of College.
+**Programmer's Den Website (Collaboration Project Within University Organization)**  
+- Website that our team of developers made for our organization in our college. This features our organization's members, teams, perks, and recruitment forms for interested students within the college.
 
-Project Library Management System
-- This is just a Case Study Project for Java Object-Oriented Programming. it's just a LMS with OOP Concepts that were taught during my class in OOP. No Backend, just arrays.
+**AN94 Website (Personal Project)** *Too busy to make due to college*  
+- I don't know why I even made this, I just like AN-94 from Girls Frontline. This showcases her, her gallery, stats, and some random content.
+
+**Luminous E-Sports Website (Case Study Web Development)**  
+- 3rd Year Midterm and Final Project for our Web Development course. This website, Luminous E-Sports, is an interactive site created by 7 developers to promote and represent a fictional E-Sport Organization.
+
+**Personal Portfolio (Personal Project)** *currently in the making*  
+- Haven't finished this yet because of college work. Maybe I'll just finish this during my 4th year of college.
+
+**Project Library Management System**  
+- A case study project for Java Object-Oriented Programming. It's just an LMS using OOP concepts taught during class. No backend, just arrays.
+
 
 
 # GitHub Stats
