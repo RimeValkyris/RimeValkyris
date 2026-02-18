@@ -94,10 +94,6 @@
 
 
 
-# GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RimeValkyris&layout=compact&theme=dark)
-
-
 
 # 
 <i>Is this too much Voodoo work or Divine Intellect? This is the hardest question in Programming.</i>
