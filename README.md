@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> Hello There! I'm Valk</h1>
-
+<h2 align="center"> Associate Data Analyst and Front-End Developer</h2>
 
 
 <div align="center">
@@ -27,6 +27,7 @@
   
   <li>Finished <strong>Cisco Networking Academy</strong> (CCNA1, CCNA2)</li>
   <li>Finished <strong>Coursera Data Analyst Program</strong></li>
+  <li>Finished <strong>Associate Data Analyst</strong></li>
 </ul>
 
 </td>
