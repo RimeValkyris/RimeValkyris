@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> Hello There! I'm Valk</h1>
-<h2 align="center"> Associate Data Analyst and Front-End Developer</h2>
+
 
 
 <div align="center">
@@ -22,9 +22,9 @@
 <p align="left">Currently studying Bachelor of Science in Information Technology Major in Technical Service Management.</p>
 
 <ul align="left">
+  <li>Associate Data Analyst and Front End Web Developer</li>
   <li>Currently Learning <strong>Web Development</strong>, especially in the branch of <strong>Front-End Development</strong></li>
   <li>Currently Learning <strong>Database Systems</strong>, and <strong>IT Support Systems</strong></li>
-  
   <li>Finished <strong>Cisco Networking Academy</strong> (CCNA1, CCNA2)</li>
   <li>Finished <strong>Coursera Data Analyst Program</strong></li>
   <li>Finished <strong>Associate Data Analyst</strong></li>
@@ -36,6 +36,24 @@
 </td>
   </tr>
 </table>
+
+# Badges
+<p align="left">
+  <!-- DataCamp Badge -->
+  <a href="https://www.datacamp.com/statement-of-accomplishment/XXXXXXXX" target="_blank">
+    <img src="https://media.datacamp.com/legacy/Certification/Badges%202024/outline/DA_Associate_-_badge_with_outline.png"
+         alt="DataCamp Badge"
+         width="150"
+         style="margin-right: 10px;">
+  </a>
+
+  <!-- Credly Badge -->
+  <a href="https://www.credly.com/badges/420e350b-72d9-484d-bbbd-fa17403a9949/public_url" target="_blank">
+    <img src="https://images.credly.com/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png"
+         alt="Google Cloud Certified Data Analyst – Credly Badge"
+         width="200" height="200">
+  </a>
+</p>
 
 
 # Tech Stack
