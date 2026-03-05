@@ -27,7 +27,6 @@
   <li>Currently Learning <strong>Database Systems</strong>, and <strong>IT Support Systems</strong></li>
   <li>Finished <strong>Cisco Networking Academy</strong> (CCNA1, CCNA2)</li>
   <li>Finished <strong>Coursera Data Analyst Program</strong></li>
-  <li>Finished <strong>Associate Data Analyst</strong></li>
 </ul>
 
 </td>
