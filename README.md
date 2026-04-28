@@ -37,20 +37,19 @@
 </table>
 
 # Badges
-<p align="left">
+<p align="center">
   <!-- DataCamp Badge -->
   <a href="https://www.datacamp.com/statement-of-accomplishment/XXXXXXXX" target="_blank">
     <img src="https://media.datacamp.com/legacy/Certification/Badges%202024/outline/DA_Associate_-_badge_with_outline.png"
          alt="DataCamp Badge"
-         width="150"
-         style="margin-right: 10px;">
+         width="160">
   </a>
 
   <!-- Credly Badge -->
   <a href="https://www.credly.com/badges/420e350b-72d9-484d-bbbd-fa17403a9949/public_url" target="_blank">
     <img src="https://images.credly.com/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png"
-         alt="Google Cloud Certified Data Analyst – Credly Badge"
-         width="200" height="200">
+         alt="Google Cloud Certified Data Analyst Badge"
+         width="160">
   </a>
 </p>
 
