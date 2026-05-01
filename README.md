@@ -39,7 +39,7 @@
 </table>
 
 # Badges
-<p align="center">
+<p align="left">
   <!-- DataCamp Badge -->
   <a href="https://www.datacamp.com/statement-of-accomplishment/XXXXXXXX" target="_blank">
     <img src="https://media.datacamp.com/legacy/Certification/Badges%202024/outline/DA_Associate_-_badge_with_outline.png"
