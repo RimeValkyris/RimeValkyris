@@ -3,7 +3,9 @@
 </div>
 
 <h1 align="center"> Hello There! I'm Valk</h1>
-
+<p align="center">
+  <i>My body is a machine that turns old PCs into a functioning Home Servers</i>
+</p>
 
 
 <div align="center">
